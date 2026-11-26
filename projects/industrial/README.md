@@ -9,6 +9,12 @@ Orxa Energies: liquid-cooled PMSM development, cooling system design, manufactur
 
 Workbook formulas and assumptions have not been independently audited.
 
+## Engineering drawings and manufacturing documentation
+
+Mechanical product documentation includes orthographic and sectional views, GD&T, datum references, bearing fits, threaded interfaces, material selection and surface-finish specifications. These illustrate the transition from detailed CAD design to manufacturing documentation.
+
+Company-owned production drawings are subject to publication authorization; this section does not reproduce or directly link the restricted drawing.
+
 ## Publication review
 The review directory contains motor-core CAD and drawing, belt-drive post-test results, Revolt 160 benchmarking and an additional motor workbook. The motor-core drawing explicitly requires company permission for reproduction. The internal reports contain company and supplier information. These files were already uploaded by the repository owner; moving them does not make them private. Confirm authorization or remove from public history as appropriate.
 
