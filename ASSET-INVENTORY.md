@@ -22,4 +22,19 @@ Original file contents retained; names and paths standardized. The repository is
 | Stetter_Empfehlungsschreiben.pdf | `credentials/recommendations/prof-ralf-stetter.pdf` |
 | Vehicles_LaTeX_Project.pdf | `projects/formula-student-ipmsm/research/vehicles-submitted-manuscript.pdf` |
 
-Individual STEP components, quarter-section PNG and extracted slide snapshots were not present in the repository tree at inspection. The additional NOILC PDF and motor workbook are catalogued without unverified technical claims.
+Individual STEP components and two quarter-section PNGs arrived in the second upload. Dedicated encoder slide snapshots are not separately present; the source presentation is available. The additional NOILC PDF and motor workbook are catalogued without unverified technical claims.
+
+## Second upload
+
+| Original filename | New location |
+|---|---|
+| Rotor.stp | `projects/formula-student-ipmsm/cad/rotor.stp` |
+| Stator.stp | `projects/formula-student-ipmsm/cad/stator.stp` |
+| end_cover.stp | `projects/formula-student-ipmsm/cad/end-cover.stp` |
+| housing.stp | `projects/formula-student-ipmsm/cad/housing.stp` |
+| shaft.stp | `projects/formula-student-ipmsm/cad/shaft.stp` |
+| quarter_section.png | `projects/formula-student-ipmsm/images/quarter-section.png` |
+| quarter_section_2.png | `projects/formula-student-ipmsm/images/quarter-section-02.png` |
+| image.png | `assets/review/image.png` |
+
+The generic image.png is retained for identification; its contents have not been independently inspected.

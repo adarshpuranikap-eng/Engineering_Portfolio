@@ -10,7 +10,7 @@ I enjoy building multidisciplinary hardware, working from first principles and l
 
 | Project | Technical focus | Evidence |
 |---|---|---|
-| [Formula Student traction motor](projects/formula-student-ipmsm/) | PTC Creo, IPMSM mechanical integration, nonlinear modelling, harmonic ILC | CAD assembly and research manuscript |
+| [Formula Student traction motor](projects/formula-student-ipmsm/) | PTC Creo, IPMSM mechanical integration, nonlinear modelling, harmonic ILC | CAD assembly, five component models, sectional images and research manuscript |
 | [Electrified cargo trailer](projects/encoder-instrumentation/) | Encoder instrumentation, quadrature decoding, Speedgoat and Simulink Real-Time | Team presentation and bench results |
 | [Industrial engineering](projects/industrial/) | Motor development, manufacturing, tooling, analytical calculations and validation | Calculation workbooks and document inventory |
 | [Professional experience](projects/industrial-experience.md) | Orxa Energies and BMW Motorrad | Professional references |
@@ -24,3 +24,7 @@ I enjoy building multidisciplinary hardware, working from first principles and l
 ## Portfolio notes
 
 Collaborative work is attributed to the relevant team. Research manuscripts are identified by submission status; no acceptance is claimed. Company-owned material and signed references require appropriate publication authorization. The review directories are organizational labels, not access controls: this repository is public. See [asset inventory](ASSET-INVENTORY.md).
+
+## Featured CAD view
+
+[![Formula Student IPMSM quarter-section view](projects/formula-student-ipmsm/images/quarter-section.png)](projects/formula-student-ipmsm/)

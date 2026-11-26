@@ -22,3 +22,7 @@ Slides 20–27 document the individual contribution:
 - Slides 25–27: position, direction, velocity and zero-velocity indication.
 
 The EKF and odometry suspension were teammates' work. Full trailer reference-system validation was future work at the presentation. The physical bench tests should not be confused with completed vehicle validation.
+
+## Visual evidence
+
+[Prototype test rig — presentation, page 24](documents/scientific-project-presentation.pdf#page=24) · [Experimental results — page 25 onward](documents/scientific-project-presentation.pdf#page=25).
