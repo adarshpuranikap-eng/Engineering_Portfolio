@@ -1,13 +1,9 @@
-# Industrial product development
+# Professional experience
 
-## Orxa Energies
-Contributed to the liquid-cooled PMSM and its cooling system, from concept development through manufacturing preparation, supplier prototyping and selected certification activities.
+## Orxa Energies — zero to one
+Contributed to liquid-cooled PMSM and cooling system development, manufacturing preparation, supplier prototyping and selected certification activities. [Company website](https://orxaenergies.com/).
 
-[Company website](https://orxaenergies.com/)
+## BMW Motorrad — quality at scale
+Internship in electric-drive development, CATIA V5 design, starter testing, 12 V battery and generator/regulator measurements, vehicle instrumentation and measurement-data processing. [Company website](https://www.bmwgroup.com/).
 
-## BMW Motorrad
-Internship in electric drive development, including CATIA V5 design, vehicle instrumentation, starter testing, 12 V battery and generator/regulator measurements and measurement-data processing.
-
-[Company website](https://www.bmwgroup.com/)
-
-Confidential designs and original signed references are not published.
+[Industrial engineering assets](industrial/) · [References and recognition](../credentials/)

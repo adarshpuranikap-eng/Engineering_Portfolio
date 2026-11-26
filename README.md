@@ -1,21 +1,26 @@
 # Adarsh Puranik | Engineering Portfolio
 
-**Mechatronics • Mechanical Design • Electric Drives • Real-Time Systems**
+**Mechatronics · Product development · Electric drives · Real-time systems**
 
-I enjoy turning engineering ideas into working hardware, combining first-principles design, experimentation and disciplined validation.
+I enjoy building multidisciplinary hardware, working from first principles and learning through design, prototyping and testing. My experience spans early-stage development at Orxa Energies and industrial engineering at BMW Motorrad.
 
-[Explore the portfolio](./index.html)
+[Portfolio website](https://adarshpuranikap-eng.github.io/Engineering_Portfolio/) (requires GitHub Pages to be enabled)
 
-## Selected engineering projects
+## Selected engineering work
 
-| Project | Focus | Status |
+| Project | Technical focus | Evidence |
 |---|---|---|
-| [Formula Student traction motor](projects/formula-student-motor.md) | Mechanical integration, nonlinear modelling, harmonic ILC | Model-based study |
-| [Real-time encoder instrumentation](projects/encoder-instrumentation.md) | Speedgoat, quadrature decoding, prototype testing | Proof of concept |
-| [Industrial product development](projects/industrial-experience.md) | Electric powertrain development and industrialization | Professional experience |
+| [Formula Student traction motor](projects/formula-student-ipmsm/) | PTC Creo, IPMSM mechanical integration, nonlinear modelling, harmonic ILC | CAD assembly and research manuscript |
+| [Electrified cargo trailer](projects/encoder-instrumentation/) | Encoder instrumentation, quadrature decoding, Speedgoat and Simulink Real-Time | Team presentation and bench results |
+| [Industrial engineering](projects/industrial/) | Motor development, manufacturing, tooling, analytical calculations and validation | Calculation workbooks and document inventory |
+| [Professional experience](projects/industrial-experience.md) | Orxa Energies and BMW Motorrad | Professional references |
+| [Credentials and recognition](credentials/) | Recommendations, motorsport participation and publication | Document inventory |
 
-## References and recognition
+## Selected results
 
-Professional and academic references, Formula Bharat participation and a transmission-engineering publication certificate are available on request.
+- **95.7%** endurance-time-weighted modelled torque-ripple RMS reduction across 9,605 calibration nodes; not a physical motor test.
+- **80 Hz** output in the encoder measurement proof of concept.
 
-Proprietary industry files and collaborative research assets are not distributed here without permission.
+## Portfolio notes
+
+Collaborative work is attributed to the relevant team. Research manuscripts are identified by submission status; no acceptance is claimed. Company-owned material and signed references require appropriate publication authorization. The review directories are organizational labels, not access controls: this repository is public. See [asset inventory](ASSET-INVENTORY.md).
