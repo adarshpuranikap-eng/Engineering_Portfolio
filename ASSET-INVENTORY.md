@@ -35,6 +35,6 @@ Individual STEP components and two quarter-section PNGs arrived in the second up
 | shaft.stp | `projects/formula-student-ipmsm/cad/shaft.stp` |
 | quarter_section.png | `projects/formula-student-ipmsm/images/quarter-section.png` |
 | quarter_section_2.png | `projects/formula-student-ipmsm/images/quarter-section-02.png` |
-| image.png | `assets/review/image.png` |
+| image.png | `projects/encoder-instrumentation/images/encoder-test-rig.png` |
 
-The generic image.png is retained for identification; its contents have not been independently inspected.
+The previously generic image.png was visually identified as the encoder test rig and moved to its project images directory.

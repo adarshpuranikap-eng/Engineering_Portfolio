@@ -26,3 +26,7 @@ The EKF and odometry suspension were teammates' work. Full trailer reference-sys
 ## Visual evidence
 
 [Prototype test rig — presentation, page 24](documents/scientific-project-presentation.pdf#page=24) · [Experimental results — page 25 onward](documents/scientific-project-presentation.pdf#page=25).
+
+## Physical prototype
+
+![Encoder, coupler and stepper motor test rig](images/encoder-test-rig.png)

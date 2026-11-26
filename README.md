@@ -1,30 +1,35 @@
 # Adarsh Puranik | Engineering Portfolio
 
-**Mechatronics · Product development · Electric drives · Real-time systems**
+**Mechatronics · Hardware development · Electric drives · Real-time control**
 
-I enjoy building multidisciplinary hardware, working from first principles and learning through design, prototyping and testing. My experience spans early-stage development at Orxa Energies and industrial engineering at BMW Motorrad.
+I build at the intersection of mechanical design, electronics and control engineering. My experience spans early-stage product development at Orxa Energies and engineering at scale at BMW Motorrad.
 
-[Portfolio website](https://adarshpuranikap-eng.github.io/Engineering_Portfolio/) (requires GitHub Pages to be enabled)
+**[Open the visual portfolio website](https://adarshpuranikap-eng.github.io/Engineering_Portfolio/)** · [Engineering documentation](#explore-my-work) · [References](#references--recognition)
 
-## Selected engineering work
+## Selected work
 
-| Project | Technical focus | Evidence |
-|---|---|---|
-| [Formula Student traction motor](projects/formula-student-ipmsm/) | PTC Creo, IPMSM mechanical integration, nonlinear modelling, harmonic ILC | CAD assembly, five component models, sectional images and research manuscript |
-| [Electrified cargo trailer](projects/encoder-instrumentation/) | Encoder instrumentation, quadrature decoding, Speedgoat and Simulink Real-Time | Team presentation and bench results |
-| [Industrial engineering](projects/industrial/) | Motor development, manufacturing, tooling, analytical calculations and validation | Calculation workbooks and document inventory |
-| [Professional experience](projects/industrial-experience.md) | Orxa Energies and BMW Motorrad | Professional references |
-| [Credentials and recognition](credentials/) | Recommendations, motorsport participation and publication | Document inventory |
+| Electric machine design | Experimental hardware |
+| :---: | :---: |
+| [<img src="projects/formula-student-ipmsm/images/quarter-section.png" width="400" alt="Motor CAD section">](projects/formula-student-ipmsm/images/quarter-section.png) | [<img src="projects/encoder-instrumentation/images/encoder-test-rig.png" height="280" alt="Encoder test rig">](projects/encoder-instrumentation/images/encoder-test-rig.png) |
+| **Formula Student IPMSM** | **Real-time encoder instrumentation** |
+| 95.7% modelled torque-ripple RMS reduction | 80 Hz speed-measurement output |
+| [Research and results](projects/formula-student-ipmsm/research/vehicles-submitted-manuscript.pdf#page=18) · [CAD assembly](projects/formula-student-ipmsm/cad/traction-motor-assembly.stp) | [Prototype and tests](projects/encoder-instrumentation/documents/scientific-project-presentation.pdf#page=24) · [Algorithm](projects/encoder-instrumentation/documents/scientific-project-presentation.pdf#page=22) |
 
-## Selected results
+## Explore my work
 
-- **95.7%** endurance-time-weighted modelled torque-ripple RMS reduction across 9,605 calibration nodes; not a physical motor test.
-- **80 Hz** output in the encoder measurement proof of concept.
+| Project | Direct access |
+|---|---|
+| Motor mechanical integration | [Second CAD view](projects/formula-student-ipmsm/images/quarter-section-02.png) · [Assembly details](projects/formula-student-ipmsm/research/vehicles-submitted-manuscript.pdf#page=4) · [Individual STEP models](projects/formula-student-ipmsm/cad/) |
+| Motor control and modelling | [Learning convergence](projects/formula-student-ipmsm/research/vehicles-submitted-manuscript.pdf#page=18) · [Endurance results](projects/formula-student-ipmsm/research/vehicles-submitted-manuscript.pdf#page=19) · [Research manuscript](projects/formula-student-ipmsm/research/vehicles-submitted-manuscript.pdf) |
+| Encoder signal processing | [Architecture](projects/encoder-instrumentation/documents/scientific-project-presentation.pdf#page=22) · [Selection](projects/encoder-instrumentation/documents/scientific-project-presentation.pdf#page=23) · [Position and direction](projects/encoder-instrumentation/documents/scientific-project-presentation.pdf#page=25) · [Velocity](projects/encoder-instrumentation/documents/scientific-project-presentation.pdf#page=26) · [Zero-speed detection](projects/encoder-instrumentation/documents/scientific-project-presentation.pdf#page=27) |
+| Mechanical calculations and tooling | [Bearing life](projects/industrial/calculations/bearing-life.xlsx) · [Removal fixture](projects/industrial/calculations/motor-bearing-core-removal-fixture.xlsx) |
+| Professional experience | [Orxa and BMW](projects/industrial-experience.md) · [Industrial project overview](projects/industrial/) |
 
-## Portfolio notes
+## References & recognition
 
-Collaborative work is attributed to the relevant team. Research manuscripts are identified by submission status; no acceptance is claimed. Company-owned material and signed references require appropriate publication authorization. The review directories are organizational labels, not access controls: this repository is public. See [asset inventory](ASSET-INVENTORY.md).
+- [Professional and academic references](credentials/): BMW Motorrad, Orxa Energies, RWU thesis supervisor and second examiner.
+- [Formula Bharat 2019 certificate](credentials/certificates/formula-bharat-2019.pdf) · [Transmission engineering publication certificate](credentials/certificates/irjet-transmission-publication-2021.pdf)
 
-## Featured CAD view
+The torque-ripple result is model-based, not a physical motor test. The trailer project was collaborative; my individual contribution was encoder instrumentation and the bench test. The research manuscript is identified by its submission status. Third-party material requires appropriate publication permission.
 
-[![Formula Student IPMSM quarter-section view](projects/formula-student-ipmsm/images/quarter-section.png)](projects/formula-student-ipmsm/)
+[Full asset inventory](ASSET-INVENTORY.md) · [LinkedIn](https://www.linkedin.com/in/adarsh-puranik-234999211)
